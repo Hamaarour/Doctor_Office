@@ -1,0 +1,645 @@
+C:\Users\Hicham Amaarour\Desktop\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe.config
+C:\Users\Hicham Amaarour\Desktop\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe
+C:\Users\Hicham Amaarour\Desktop\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.pdb
+C:\Users\Hicham Amaarour\Desktop\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Hicham Amaarour\Desktop\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.AssemblyReference.cache
+C:\Users\Hicham Amaarour\Desktop\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Properties.Resources.resources
+C:\Users\Hicham Amaarour\Desktop\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.GenerateResource.cache
+C:\Users\Hicham Amaarour\Desktop\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CoreCompileInputs.cache
+C:\Users\Hicham Amaarour\Desktop\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CopyComplete
+C:\Users\Hicham Amaarour\Desktop\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.exe
+C:\Users\Hicham Amaarour\Desktop\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.pdb
+C:\Users\Hicham Amaarour\Desktop\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Form_Menu.resources
+C:\Users\Hicham Amaarour\Desktop\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Classes.RJTextBox.resources
+C:\Users\Hicham Amaarour\Desktop\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Guna.UI2.dll
+C:\Users\Hicham Amaarour\Desktop\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Medicament.resources
+C:\Users\Hicham Amaarour\Desktop\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Ordonnance.resources
+C:\Users\Hicham Amaarour\Desktop\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Forme_ajouter.resources
+C:\Users\Hicham Amaarour\Desktop\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Patient.resources
+C:\Users\Hind\OneDrive\سطح المكتب\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe.config
+C:\Users\Hind\OneDrive\سطح المكتب\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe
+C:\Users\Hind\OneDrive\سطح المكتب\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.pdb
+C:\Users\Hind\OneDrive\سطح المكتب\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Hind\OneDrive\سطح المكتب\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.AssemblyReference.cache
+C:\Users\Hind\OneDrive\سطح المكتب\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Patient.resources
+C:\Users\Hind\OneDrive\سطح المكتب\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Medicament.resources
+C:\Users\Hind\OneDrive\سطح المكتب\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Form_Menu.resources
+C:\Users\Hind\OneDrive\سطح المكتب\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Ordonnance.resources
+C:\Users\Hind\OneDrive\سطح المكتب\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Properties.Resources.resources
+C:\Users\Hind\OneDrive\سطح المكتب\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Classes.RJTextBox.resources
+C:\Users\Hind\OneDrive\سطح المكتب\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.GenerateResource.cache
+C:\Users\Hind\OneDrive\سطح المكتب\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CoreCompileInputs.cache
+C:\Users\Hind\OneDrive\سطح المكتب\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CopyComplete
+C:\Users\Hind\OneDrive\سطح المكتب\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.exe
+C:\Users\Hind\OneDrive\سطح المكتب\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.pdb
+C:\Users\Hind\OneDrive\سطح المكتب\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_details_patient.resources
+C:\Users\Hicham Amaarour\Downloads\Final Form Doctor's Office (2)\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe.config
+C:\Users\Hicham Amaarour\Downloads\Final Form Doctor's Office (2)\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe
+C:\Users\Hicham Amaarour\Downloads\Final Form Doctor's Office (2)\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.pdb
+C:\Users\Hicham Amaarour\Downloads\Final Form Doctor's Office (2)\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Hicham Amaarour\Downloads\Final Form Doctor's Office (2)\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.AssemblyReference.cache
+C:\Users\Hicham Amaarour\Downloads\Final Form Doctor's Office (2)\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_details_patient.resources
+C:\Users\Hicham Amaarour\Downloads\Final Form Doctor's Office (2)\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Patient.resources
+C:\Users\Hicham Amaarour\Downloads\Final Form Doctor's Office (2)\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Medicament.resources
+C:\Users\Hicham Amaarour\Downloads\Final Form Doctor's Office (2)\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Form_Menu.resources
+C:\Users\Hicham Amaarour\Downloads\Final Form Doctor's Office (2)\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Ordonnance.resources
+C:\Users\Hicham Amaarour\Downloads\Final Form Doctor's Office (2)\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Properties.Resources.resources
+C:\Users\Hicham Amaarour\Downloads\Final Form Doctor's Office (2)\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Classes.RJTextBox.resources
+C:\Users\Hicham Amaarour\Downloads\Final Form Doctor's Office (2)\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.GenerateResource.cache
+C:\Users\Hicham Amaarour\Downloads\Final Form Doctor's Office (2)\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CoreCompileInputs.cache
+C:\Users\Hicham Amaarour\Downloads\Final Form Doctor's Office (2)\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CopyComplete
+C:\Users\Hicham Amaarour\Downloads\Final Form Doctor's Office (2)\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.exe
+C:\Users\Hicham Amaarour\Downloads\Final Form Doctor's Office (2)\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.pdb
+C:\Users\Hicham Amaarour\Downloads\Final Form Doctor's Office (2)\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Accueil.resources
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.AssemblyReference.cache
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Accueil.resources
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_details_patient.resources
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Patient.resources
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Medicament.resources
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Form_Menu.resources
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Ordonnance.resources
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Properties.Resources.resources
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Classes.RJTextBox.resources
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.GenerateResource.cache
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CoreCompileInputs.cache
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.exe
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.pdb
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe.config
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.pdb
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CopyComplete
+C:\Users\Hind\OneDrive\سطح المكتب\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Accueil.resources
+C:\Users\Hind\OneDrive\سطح المكتب\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Mini_menu_patient.resources
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Accueil.resources
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Patient.resources
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Medicament.resources
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Form_Menu.resources
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Ordonnance.resources
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Mini_menu_patient.resources
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Properties.Resources.resources
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Classes.RJTextBox.resources
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.GenerateResource.cache
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CoreCompileInputs.cache
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.exe
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.pdb
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe.config
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.pdb
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\FontAwesome.Sharp.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CopyComplete
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Data\Database_cabinet.accdb
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.AssemblyReference.cache
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Login.resources
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Rendez_vous.resources
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Ajouter_Ordonnance.resources
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Ajouter_Rendez_Vous.resources
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Database_cabinet.accdb
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\EnvDTE.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\stdole.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Microsoft.MSXML.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Imprimer_Ordonnance.resources
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\AxShockwaveFlashObjects.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.Shared.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\ShockwaveFlashObjects.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe.config
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.pdb
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\stdole.dll
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.AssemblyReference.cache
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Ajouter_Ordonnance.resources
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Ajouter_Rendez_Vous.resources
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Login.resources
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Accueil.resources
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Patient.resources
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Medicament.resources
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Form_Menu.resources
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Ordonnance.resources
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Rendez_vous.resources
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Mini_menu_patient.resources
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Properties.Resources.resources
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Classes.RJTextBox.resources
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.GenerateResource.cache
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CoreCompileInputs.cache
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CopyComplete
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.exe
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.pdb
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\cabinet.accdb
+C:\Users\Hicham Amaarour\Desktop\Projet 1.0\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_info_patient.resources
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\stdole.dll
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.AssemblyReference.cache
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Ajouter_Ordonnance.resources
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Ajouter_Rendez_Vous.resources
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_info_patient.resources
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Login.resources
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Accueil.resources
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Patient.resources
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Medicament.resources
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Form_Menu.resources
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Rendez_vous.resources
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Mini_menu_patient.resources
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Properties.Resources.resources
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.GenerateResource.cache
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CoreCompileInputs.cache
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CopyComplete
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.exe
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.pdb
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe.config
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.pdb
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Visite.resources
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\RJCodeAdvance.RJControls.RJTextBox.resources
+C:\Users\Hind\OneDrive\سطح المكتب\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Forms_dialog.Form_info_ajouter_patient.resources
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Database_cabinet.accdb
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe.config
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.pdb
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.Shared.dll
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\FontAwesome.Sharp.dll
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\ShockwaveFlashObjects.dll
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\stdole.dll
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.AssemblyReference.cache
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Forms_dialog.Form_info_ajouter_patient.resources
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Ajouter_Ordonnance.resources
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Ajouter_Rendez_Vous.resources
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_info_patient.resources
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Login.resources
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Accueil.resources
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Patient.resources
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Medicament.resources
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Form_Menu.resources
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Visite.resources
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Rendez_vous.resources
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Mini_menu_patient.resources
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Properties.Resources.resources
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\RJCodeAdvance.RJControls.RJTextBox.resources
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.GenerateResource.cache
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CoreCompileInputs.cache
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CopyComplete
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.exe
+D:\Projet du stage\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.pdb
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Database_cabinet.accdb
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe.config
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.pdb
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\AxShockwaveFlashObjects.dll
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.Shared.dll
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\FontAwesome.Sharp.dll
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\ShockwaveFlashObjects.dll
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\stdole.dll
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.AssemblyReference.cache
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Forms_dialog.Form_info_ajouter_patient.resources
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Ajouter_Ordonnance.resources
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Ajouter_Rendez_Vous.resources
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_info_patient.resources
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Login.resources
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Form_Menu.resources
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Mini_menu_patient.resources
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Medicament.resources
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Patient.resources
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_RendezVous.resources
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Visite.resources
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Properties.Resources.resources
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\RJCodeAdvance.RJControls.RJTextBox.resources
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.UC_Acceuil.resources
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.GenerateResource.cache
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CoreCompileInputs.cache
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CopyComplete
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.exe
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.pdb
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Patient_details.resources
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Patient_Historique.resources
+D:\our project\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Patient_Nv_Visite.resources
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Database_cabinet.accdb
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe.config
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.pdb
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\stdole.dll
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.AssemblyReference.cache
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Forms_dialog.Form_info_ajouter_patient.resources
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Ajouter_Ordonnance.resources
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Ajouter_Rendez_Vous.resources
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_info_patient.resources
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Login.resources
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Form_Menu.resources
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Mini_menu_patient.resources
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Medicament.resources
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Patient.resources
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Patient_details.resources
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Patient_Historique.resources
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Patient_Nv_Visite.resources
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_RendezVous.resources
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Visite.resources
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Properties.Resources.resources
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.UC_Acceuil.resources
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.GenerateResource.cache
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CoreCompileInputs.cache
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CopyComplete
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.exe
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.pdb
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Database_cabinet.accdb
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe.config
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.pdb
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\stdole.dll
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.AssemblyReference.cache
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Forms_dialog.Form_info_ajouter_patient.resources
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Ajouter_Ordonnance.resources
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Ajouter_Rendez_Vous.resources
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_info_patient.resources
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Login.resources
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Form_Menu.resources
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Mini_menu_patient.resources
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Medicament.resources
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Patient.resources
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Patient_details.resources
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Patient_Historique.resources
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Patient_Nv_Visite.resources
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_RendezVous.resources
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Visite.resources
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Properties.Resources.resources
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.UC_Acceuil.resources
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.GenerateResource.cache
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CoreCompileInputs.cache
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CopyComplete
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.exe
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.pdb
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe.manifest
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.application
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.exe.manifest
+C:\Users\Hind\OneDrive\سطح المكتب\New folder\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.application
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Database_cabinet.accdb
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe.config
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe.manifest
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.application
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.pdb
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\stdole.dll
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.AssemblyReference.cache
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Forms_dialog.Form_info_ajouter_patient.resources
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Ajouter_Ordonnance.resources
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Ajouter_Rendez_Vous.resources
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_info_patient.resources
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Login.resources
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Form_Menu.resources
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Mini_menu_patient.resources
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Medicament.resources
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Patient.resources
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Patient_details.resources
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Patient_Historique.resources
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Patient_Nv_Visite.resources
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_RendezVous.resources
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Visite.resources
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Properties.Resources.resources
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.UC_Acceuil.resources
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.GenerateResource.cache
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CoreCompileInputs.cache
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.exe.manifest
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.application
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CopyComplete
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.exe
+C:\Users\Hind\OneDrive\سطح المكتب\last version\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.pdb
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe.manifest
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.application
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.exe.manifest
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.application
+C:\Users\Hind\OneDrive\Documents\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Form_Imprimer.resources
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Database_cabinet.accdb
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe.config
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe.manifest
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.application
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.pdb
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\stdole.dll
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.AssemblyReference.cache
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Forms_dialog.Form_info_ajouter_patient.resources
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Ajouter_Ordonnance.resources
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Ajouter_Rendez_Vous.resources
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_info_patient.resources
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Login.resources
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Form_Menu.resources
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Mini_menu_patient.resources
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Medicament.resources
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Patient.resources
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Patient_details.resources
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Patient_Historique.resources
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Patient_Nv_Visite.resources
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_RendezVous.resources
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Visite.resources
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Form_Imprimer.resources
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Properties.Resources.resources
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.UC_Acceuil.resources
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.GenerateResource.cache
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CoreCompileInputs.cache
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.exe.manifest
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.application
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CopyComplete
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.exe
+C:\Users\Hicham Amaarour\Desktop\Projet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.pdb
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Database_cabinet.accdb
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe.config
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe.manifest
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.application
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.pdb
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.Shared.dll
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\FontAwesome.Sharp.dll
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\ShockwaveFlashObjects.dll
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\stdole.dll
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.AssemblyReference.cache
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Forms_dialog.Form_info_ajouter_patient.resources
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Ajouter_Ordonnance.resources
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Ajouter_Rendez_Vous.resources
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_info_patient.resources
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Login.resources
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Form_Menu.resources
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Mini_menu_patient.resources
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Medicament.resources
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Patient.resources
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Patient_details.resources
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Patient_Historique.resources
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Patient_Nv_Visite.resources
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_RendezVous.resources
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Visite.resources
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Form_Imprimer.resources
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Properties.Resources.resources
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.UC_Acceuil.resources
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.GenerateResource.cache
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CoreCompileInputs.cache
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.exe.manifest
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.application
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CopyComplete
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.exe
+D:\Programming\My Projet\My projet C#\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.pdb
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe.config
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe.manifest
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.application
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.exe
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\Final Form Doctor's Office.pdb
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.Shared.dll
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\FontAwesome.Sharp.dll
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\ShockwaveFlashObjects.dll
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\stdole.dll
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.AssemblyReference.cache
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Forms_dialog.Form_info_ajouter_patient.resources
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Ajouter_Ordonnance.resources
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Ajouter_Rendez_Vous.resources
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_info_patient.resources
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Form_Login.resources
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Form_Menu.resources
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.Mini_menu_patient.resources
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Medicament.resources
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Patient.resources
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Patient_details.resources
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Patient_Historique.resources
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Patient_Nv_Visite.resources
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_RendezVous.resources
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Forms.UC_Forms.UC_Visite.resources
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Form_Imprimer.resources
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.Properties.Resources.resources
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final_Form_Doctor_s_Office.UC_Acceuil.resources
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.GenerateResource.cache
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CoreCompileInputs.cache
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.exe.manifest
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.application
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.csproj.CopyComplete
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.exe
+D:\Programming\My Projet\C# projet\Gestion cabinet\Gestion Cabinet v1.9\our project\Final Form Doctor's Office\Final Form Doctor's Office\obj\Debug\Final Form Doctor's Office.pdb

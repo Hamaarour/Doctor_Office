@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="Final_Form_Doctor_s_Office.Properties.Settings.Database2ConnectionString"
+            connectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=|DataDirectory|\Data\Database2.accdb"
+            providerName="System.Data.OleDb" />
+        <add name="Final_Form_Doctor_s_Office.Properties.Settings.Database_cabinetConnectionString"
+            connectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=|DataDirectory|\Data\Database_cabinet.accdb"
+            providerName="System.Data.OleDb" />
+        <add name="Final_Form_Doctor_s_Office.Properties.Settings.Database_cabinetConnectionString1"
+            connectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=|DataDirectory|\Database_cabinet.accdb"
+            providerName="System.Data.OleDb" />
+        <add name="Final_Form_Doctor_s_Office.Properties.Settings.cabinetConnectionString"
+            connectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=|DataDirectory|\cabinet.accdb"
+            providerName="System.Data.OleDb" />
+    </connectionStrings>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2" />
+    </startup>
+  <runtime>
+    <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+      <dependentAssembly>
+        <assemblyIdentity name="Microsoft.ReportViewer.Common" publicKeyToken="89845dcd8080cc91" culture="neutral" />
+        <bindingRedirect oldVersion="0.0.0.0-11.0.0.0" newVersion="11.0.0.0" />
+      </dependentAssembly>
+      <dependentAssembly>
+        <assemblyIdentity name="Microsoft.ReportViewer.DataVisualization" publicKeyToken="89845dcd8080cc91" culture="neutral" />
+        <bindingRedirect oldVersion="0.0.0.0-15.0.0.0" newVersion="15.0.0.0" />
+      </dependentAssembly>
+      <dependentAssembly>
+        <assemblyIdentity name="Microsoft.SqlServer.Types" publicKeyToken="89845dcd8080cc91" culture="neutral" />
+        <bindingRedirect oldVersion="0.0.0.0-14.0.0.0" newVersion="14.0.0.0" />
+      </dependentAssembly>
+    </assemblyBinding>
+  </runtime>
+</configuration>
